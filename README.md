@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FabricioBarrera
-- 👀 I’m interested in Data science and artificial intelligence
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Pythons projects to learn and practice my skills
-- 📫 How to reach me..
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on great Machine Learning & AI projects
 
 <!---
 FabricioBarrera/FabricioBarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
