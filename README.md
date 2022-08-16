@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabricioBarrera
 - 👀 I’m a Data Scientist
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning NPL & Deep Learning
 - 💞️ I’m looking to collaborate on great Machine Learning & AI projects
 
 <!---
